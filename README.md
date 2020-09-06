@@ -1,5 +1,9 @@
 # -Paddle-UGATIT-
-使用百度paddlepaddle框架 关于论文UGATIT的复现 
+使用百度paddlepaddle框架 对应论文UGATIT的复现 
+
+### 数据集
+
+selfie2anime数据集
 
 ## 文件说明
 
@@ -51,7 +55,7 @@ UGATIT的主网络定义,其中包含了生成器 ResnetGenerator, 判别器 Dis
 
 ### Images
 
-存放训练过程之中输出的关于验证集的效果图片
+存放训练过程之中输出的关于验证集的效果图片,在这里展示了大约30w轮时候的训练效果
 
 ### 使用说明
 
