@@ -45,7 +45,7 @@ UGATIT的主网络定义,其中包含了生成器 ResnetGenerator, 判别器 Dis
 
 ### eval.py
 
-评估函数,将验证集A中的图片全部转为B
+评估函数,将验证集A中的图片全部转为B，并将生成的图片存放到fake文件夹,可用GAN_Metrics-Tensorflow进行评估
 
 ### Parameters 
 
